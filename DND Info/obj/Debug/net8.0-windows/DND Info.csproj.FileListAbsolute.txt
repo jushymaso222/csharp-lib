@@ -1,0 +1,28 @@
+C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\obj\Debug\net8.0-windows\DND_Info.AddChar.resources
+C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\obj\Debug\net8.0-windows\DND_Info.EditChar.resources
+C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\obj\Debug\net8.0-windows\DND_Info.Main.resources
+C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\obj\Debug\net8.0-windows\DND_Info.SearchHandler.resources
+C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\obj\Debug\net8.0-windows\DND Info.csproj.GenerateResource.cache
+C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\obj\Debug\net8.0-windows\DND Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\obj\Debug\net8.0-windows\DND Info.AssemblyInfoInputs.cache
+C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\obj\Debug\net8.0-windows\DND Info.AssemblyInfo.cs
+C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\obj\Debug\net8.0-windows\DND Info.csproj.CoreCompileInputs.cache
+C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\bin\Debug\net8.0-windows\DND Info.exe
+C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\bin\Debug\net8.0-windows\DND Info.deps.json
+C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\bin\Debug\net8.0-windows\DND Info.runtimeconfig.json
+C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\bin\Debug\net8.0-windows\DND Info.dll
+C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\bin\Debug\net8.0-windows\DND Info.pdb
+C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\obj\Debug\net8.0-windows\DND Info.dll
+C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\obj\Debug\net8.0-windows\refint\DND Info.dll
+C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\obj\Debug\net8.0-windows\DND Info.pdb
+C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\obj\Debug\net8.0-windows\DND Info.genruntimeconfig.cache
+C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\obj\Debug\net8.0-windows\ref\DND Info.dll
+C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\obj\Debug\net8.0-windows\DND Info.csproj.AssemblyReference.cache
+C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\obj\Debug\net8.0-windows\DND Info.csproj.Up2Date
+C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\obj\Debug\net8.0-windows\DND_Info.ChooseID.resources
