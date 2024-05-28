@@ -41,6 +41,7 @@
             dataGrid.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGrid.Location = new Point(12, 213);
             dataGrid.Name = "dataGrid";
+            dataGrid.ReadOnly = true;
             dataGrid.RowHeadersWidth = 62;
             dataGrid.Size = new Size(776, 225);
             dataGrid.TabIndex = 0;

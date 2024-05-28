@@ -13,6 +13,9 @@
     <Compile Update="Main.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="rollDice.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="SearchHandler.cs">
       <SubType>Form</SubType>
     </Compile>

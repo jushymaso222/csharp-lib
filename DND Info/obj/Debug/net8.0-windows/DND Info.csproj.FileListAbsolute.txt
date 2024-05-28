@@ -26,3 +26,5 @@ C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\bin\Debug\net8.0-windows\ru
 C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\obj\Debug\net8.0-windows\DND Info.csproj.AssemblyReference.cache
 C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\obj\Debug\net8.0-windows\DND Info.csproj.Up2Date
 C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\obj\Debug\net8.0-windows\DND_Info.ChooseID.resources
+C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\obj\Debug\net8.0-windows\DND_Info.Properties.Resources.resources
+C:\Users\ninja\OneDrive\Desktop\C#\DND Info\DND Info\obj\Debug\net8.0-windows\DND_Info.rollDice.resources

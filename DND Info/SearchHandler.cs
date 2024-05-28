@@ -29,7 +29,7 @@ namespace DND_Info
 
         private void dataGrid_CellContentDoubleClick(object sender, DataGridViewCellEventArgs e)
         {
-            string strID = dataGrid.Rows[e.RowIndex].Cells[0].Value.ToString();
+            string strID = dataGrid.Rows[e.RowIndex].Cells[19].Value.ToString();
 
             MessageBox.Show(strID);
             int intID = Convert.ToInt32(strID);

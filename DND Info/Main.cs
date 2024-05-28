@@ -38,5 +38,11 @@ namespace DND_Info
             AddChar temp = new AddChar();
             temp.Show();
         }
+
+        private void rollDie_Click(object sender, EventArgs e)
+        {
+            rollDice die = new rollDice();
+            die.Show();
+        }
     }
 }
